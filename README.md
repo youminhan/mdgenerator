@@ -1,6 +1,6 @@
 # Leetcode Markdown Template Generator
 
-This generator will help you generate a markdown template for leetcode question.You can generate as many questions as you want at the same time.
+This generator will help you generate a markdown template for leetcode question. You can generate as many questions as you want at the same time. The output file will be located in the `md` folder of application home directory. 
 
 ## Installation
 
